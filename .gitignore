@@ -1,0 +1,38 @@
+# ---- 가상환경 (약 5.4GB) ----
+venvPython312x/
+.venv/
+venv/
+
+# ---- 서드파티 바이너리 (약 652MB) ----
+ffmpeg/
+
+# ---- 빌드 산물 ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ---- 비밀정보: 절대 커밋 금지 ----
+.env
+*.env
+!.env.example
+
+# ---- 로컬 개발 환경 설정 ----
+.claude/
+.vscode/
+
+# ---- 업로드 제외 자료 ----
+# 팀 프로젝트 (공동 저작물)
+Matjippiti-main/
+
+# 저작권 자료 (논문 원문 / 음원)
+# KSCI_Paper.txt 등은 논문 원문을 추출한 전문이라 PDF와 동일하게 제외.
+# (AI가 생성한 요약본 Paper_summary.txt는 실습 결과물이므로 유지)
+Data/KSCI_Paper.pdf
+Data/KSCI_Paper.txt
+Data/KSCI_Paper_with_Preprocessing.txt
+Audio_Boohwal.mp3
+Data/Audio/Eng_Listening_*.mp3
+Data/STT_Audio_58s.mp3
+
+# 인물이 포함된 사진
+Data/Images/Team_Jeju_Image.jpg

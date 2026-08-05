@@ -1,0 +1,12 @@
+[
+    {
+        "No": 1,
+        "Quiz": "Which of the following descriptions of the image is incorrect?\n- (1) A boat is floating on the water in the mist.\n- (2) Birds are flying over the water.\n- (3) There are two people on the boat.\n- (4) The sea has large waves.",
+        "imgFile": "Image_Sample.jpg"
+    },
+    {
+        "No": 2,
+        "Quiz": "Which of the following descriptions of the image is incorrect?\n\n- (1) There are several boats docked at a pier.\n- (2) A building with a green roof is visible in the distance.\n- (3) Many people are sitting on the grass.\n- (4) A mountain is clearly visible in the image.",
+        "imgFile": "Image_Sample_01.jpg"
+    }
+]
