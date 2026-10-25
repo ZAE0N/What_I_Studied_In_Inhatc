@@ -1,0 +1,25 @@
+# OpenAI API 실습 공통
+openai
+python-dotenv
+
+# 웹 UI 실습 (Streamlit_Basic.py, GPT_Streamlit_FunctionCall.py)
+streamlit
+
+# Function Calling - 타임존 처리
+pytz
+
+# PDF 전처리 / 요약 (PDFfile_Text.py, PDF_Summary.py)
+pymupdf
+
+# 데이터 처리
+pandas
+requests
+
+# 로컬 Whisper 실습 (Huggingface_whisper.ipynb) - 설치 용량이 크므로 필요할 때만
+transformers
+torch
+accelerate
+datasets
+
+# 노트북 실행 환경
+jupyter
